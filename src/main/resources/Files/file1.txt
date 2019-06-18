@@ -1,0 +1,6 @@
+https://reqres.in/api/users/3
+https://reqres.in/api/users/1
+https://reqres.in/api/users/2
+http://www.mocky.io/v2/5d07582f3000004d00051f4f
+https://reqres.in/api/users?page=3
+http://www.mocky.io/v2/5d077cf73000005e000520ee
